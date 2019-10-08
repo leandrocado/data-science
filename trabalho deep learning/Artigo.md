@@ -7,7 +7,7 @@ output: pdf_document
 
 # Introdução
 
-Para nosso trabalho, utilizandos o dataset ["Hand Gesture Recognition Database"](https://www.kaggle.com/gti-upm/leapgestrecog), que contém 10 gestos manuais demonstrados por 10 pessoas diferentes, sendo 5 homens e 5 mulheres. Para cada indíviduo, 2000 imagens foram coletadas, 200 imagens para cada gesto. A resolução das imagens é de 640 x 240 pixels.
+Para nosso trabalho, utilizamos o dataset ["Hand Gesture Recognition Database"](https://www.kaggle.com/gti-upm/leapgestrecog), que contém 10 gestos manuais demonstrados por 10 pessoas diferentes, sendo 5 homens e 5 mulheres. Para cada indíviduo, 2000 imagens foram coletadas, 200 imagens para cada gesto. A resolução das imagens é de 640 x 240 pixels.
 
 Escolhemos este dataset por ser composto de imagens, o que nos permite explorar melhor a natureza de redes neurais convolucionais. Também foi escolhido por não ser um dataset muito grande, o que torna o ciclo de treino e verificação moderadamente curto em hardware _mid-tier_.
 
