@@ -103,3 +103,11 @@ Comparando as redes Resnet50 e Resnet101, concluímos que a eficiência de ambas
 A rede GoogleNet mostrou-se eficiente durante o ciclo de treinamento/validação, porém mostrou uma performance inferior ao classificar dados desconhecidos. Pensamos que talvez isso se deva ao fato de sua primeira camada linear possuir menos parâmetros do que as Resnet.
 
 Notamos também que todas redes pré-treinadas iniciaram um aumento significativo no valor de custo nas primeiras iterações, porém que rapidamente decresce de forma exponencial.
+
+![Figura1](https://user-images.githubusercontent.com/50786369/66450599-83f8e480-ea2f-11e9-820f-2a6ac7771852.jpg)
+
+![Figura2](https://user-images.githubusercontent.com/50786369/66450086-9f62f000-ea2d-11e9-9064-f1e591256852.JPG)
+
+![Figura3](https://user-images.githubusercontent.com/50786369/66450087-9ffb8680-ea2d-11e9-9df5-2e99c8b82ef6.JPG)
+
+![Figura4](https://user-images.githubusercontent.com/50786369/66450088-9ffb8680-ea2d-11e9-8805-1aa60708140a.JPG)
